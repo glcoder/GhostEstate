@@ -1,5 +1,5 @@
 # Ghost Estate
-![Logo](https://i.imgur.com/s2t3VRR.png)
+![Logo](https://i.imgur.com/TpSxZCz.png)
 
 Игря была разработана за 2 дня для MailRu Game Jam 2017, командой из трех человек:
 * Дизайн и  креатив - Вадим Букачев
